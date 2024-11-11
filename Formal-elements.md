@@ -1,14 +1,14 @@
 # Main Title: Game Name
 
-**tagline:** A short, catchy marketing line that describes the game.
+**tagline:** Get through school to find your way to escape home!
 
 ## Game Essence
 
-Describe the main idea of your game (concept) in three to four sentences.
+The player, stuck in school, must find a way to escape. They interact with other students in different classrooms, solving exercises in math, English, and programming to assemble pieces of a key to the principal’s office. Once inside, they can grab the school gate key to finally escape.
 
-Specify the platform for your game (e.g., PC, mobile, web).
+Platform: PC (Unity)
 
-Insert a screenshot illustrating the game as you envision it.
+*** Insert a screenshot illustrating the game as you envision it.
 
 ---
 
@@ -18,15 +18,21 @@ Use screenshots to illustrate your answers.
 
 ### 1. Players
 
-Describe your target audience, the number of players, and the interaction patterns (collaborative or competitive).
+
+* Target Audience: Ages 10+ with an interest in puzzle-solving games.
+* Number of Players: Single-player.
+* Interaction Patterns: Player versus environment; interaction with in-game characters.
 
 ### 2. Goals
 
-Outline the objectives for the player to achieve victory and how these objectives are communicated.
+* Primary Goal: Assemble the complete key by solving puzzles and unlock the school gate.
+* Goal Communication: Objectives are outlined in initial instructions and reinforced by hints from classmates.
 
 ### 3. Processes
 
-Provide details about the start of the game (first 30 seconds), the core gameplay loop, and the actions required to finish the game. Include information about controls (mouse/keyboard/touch) and what will happen in the game as a result. Explain how the player will learn about these processes.
+* Game Start: The player is introduced to their situation (trapped in school) and receives basic movement and interaction instructions.
+* Core Gameplay: Move through classrooms, solve puzzles to gain key pieces, and reach the principal’s office.
+* Game End: Escape successfully by unlocking the gate, or lose if caught without the completed key.
 
 ### 4. Rules
 
