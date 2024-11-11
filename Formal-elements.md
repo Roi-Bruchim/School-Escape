@@ -18,15 +18,16 @@ Use screenshots to illustrate your answers.
 
 ### 1. Players
 
-
 * Target Audience: Ages 10+ with an interest in puzzle-solving games.
 * Number of Players: Single-player.
 * Interaction Patterns: Player versus environment; interaction with in-game characters.
+
 
 ### 2. Goals
 
 * Primary Goal: Assemble the complete key by solving puzzles and unlock the school gate.
 * Goal Communication: Objectives are outlined in initial instructions and reinforced by hints from classmates.
+
 
 ### 3. Processes
 
@@ -34,25 +35,31 @@ Use screenshots to illustrate your answers.
 * Core Gameplay: Move through classrooms, solve puzzles to gain key pieces, and reach the principal’s office.
 * Game End: Escape successfully by unlocking the gate, or lose if caught without the completed key.
 
+
 ### 4. Rules
 
-Describe the rules that limit player actions and determine outcomes. Explain how the player will learn these rules.
+* Must solve puzzles to receive key pieces.
+* Certain hallways with security checks must be avoided.
+
 
 ### 5. Resources
 
-List the resources available in the game, their benefits, and acquisition methods. Explain how resources are designed to be scarce and how the player is informed about their resources and amounts.
+* Key Pieces: Gathered by solving puzzles.
+* Hints: Available from classmates when needed.
 
 ### 6. Conflicts
 
-Describe the primary conflicts: between the player and the system (obstacles), with other players (opponents), or within themselves (dilemmas).
+* Main Challenge: Solving subject-based puzzles, avoiding detection, and completing objectives in sequence.
+
 
 ### 7. Boundaries
 
-Define the boundaries of the game world (closed or open, round or flat) and how these are conveyed to the player. Explain how the map meets the design principles of meaning, mobility, orientation, interest, and direction.
+* Game Boundaries: Limited to the school environment with each classroom presenting subject-specific puzzles.
+
 
 ### 8. Outcomes
 
-Describe the possible outcomes of the game, the balance between luck and skill, and whether the game is zero-sum, collaborative, or complex.
+* Success is escaping the school, while failure occurs if caught or unable to solve puzzles.
 
 ---
 
